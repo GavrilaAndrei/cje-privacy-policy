@@ -6,4 +6,8 @@ The page is published through GitHub Pages and is intended to be used in the Goo
 
 Contact:
 app.consiliulelevilor@gmail.com
-+40 784 953 870
+
+Acknowledgement version: 2026-09-30. Legal wording clarified on 2026-10-01;
+no change to processing purposes, data categories or the current controller.
+Operational pupil use remains conditional on documented county activation,
+lawful bases and procedures for minors. This page is not a compliance certification.
